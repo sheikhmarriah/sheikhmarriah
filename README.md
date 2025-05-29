@@ -1,7 +1,6 @@
 ## Hi, I'm Marriah 🎀
 🍭 Computer Science & Engineering Student at CITK<br/>
 🍭 AI/ML enthusiast<br/>
-🍭 Currently working on Deep Reinforcement Learning<br/>
 🍭 Looking to collaborate on AI projects<br/>
 
 
