@@ -1,6 +1,6 @@
 ## Hello I'm  Marriah 🎀
 👩🏻‍💻 Computer Science \& Engineering student <br>
-☘️ I build python development projects including AI projects.<br>
+☘️ I build python  projects including AI projects.<br>
 🍀 Looking to work for  development roles.<br>
 📩 Contact me: sheikhmarriah@gmail.com
 
