@@ -37,7 +37,7 @@
 
 <a href="https://github.com/sheikhmarriah"><img src="https://nirzak-streak-stats.vercel.app/?user=sheikhmarriah&theme=dark&hide_borders=false&include_all_commits=true&count_private=true" alt= "github streaks"/></a>
 
-<a href="https://github.com/sheikhmarriah"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheikhmarriah&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt= "sheikhmarriah's top languages" /></a>
+<a href="https://github.com/sheikhmarriah"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheikhmarriah&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt= "sheikhmarriah's top languages" /></a>
 
 
 ---
