@@ -29,6 +29,7 @@
 <a href="https://github.com/sheikhmarriah"><img src= "https://img.shields.io/badge/Flask-blue.svg?style=for-the-badge&logo=Flask"/></a>
 <a href="https://github.com/sheikhmarriah"><img src= "https://img.shields.io/badge/Langchain-black.svg?style=for-the-badge&logo=Langchain&logoColor=green)"/></a>
 <a href="https://github.com/sheikhmarriah"><img src= "https://img.shields.io/badge/TensorFlow-orange.svg?style=for-the-badge&logo=TensorFlow&logoColor=white"/></a>
+<a href="https://github.com/sheikhmarriah"><img src= "https://img.shields.io/badge/React-white.svg?style=for-the-badge&logo=React&logoColor=blue"/></a>
 
 
 ## Github Stats
