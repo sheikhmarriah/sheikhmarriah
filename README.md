@@ -2,8 +2,8 @@
 👩🏻‍💻 Computer Science \& Engineering student <br>
 ☘️ I build python  projects including AI projects.<br>
 🍀 Looking to work for  development roles.<br>
-📩 Contact me: sheikhmarriah@gmail.com
-
+📩 Contact me: sheikhmarriah@gmail.com <br>
+🌸 Portfolio: https://marriah-portfolio.netlify.app
 ## Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/marriahsheikh) [![email](https://img.shields.io/badge/Email-pink?logo=gmail&logoColor=white)](mailto:sheikhmarriah@gmail.com) 
 
